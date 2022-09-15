@@ -5,3 +5,7 @@
 + Pass the variable as the expression in a switch statement.
 + Create 5 different cases for different subjects. Each case will print the subject chosen and a custom message of your choosing.
 + Create a default case to handle any case not handled.
+
+## Extra Switch Statement Practice:
+
+[https://www.codewars.com/kata/568dc014440f03b13900001d/train/csharp](https://www.codewars.com/kata/568dc014440f03b13900001d/train/csharp)
